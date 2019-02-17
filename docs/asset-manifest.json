@@ -1,14 +1,14 @@
 {
-  "main.css": "/birendramedicos/static/css/main.60368a0a.chunk.css",
-  "main.js": "/birendramedicos/static/js/main.9e7e48ce.chunk.js",
-  "main.js.map": "/birendramedicos/static/js/main.9e7e48ce.chunk.js.map",
-  "runtime~main.js": "/birendramedicos/static/js/runtime~main.074ed4cd.js",
-  "runtime~main.js.map": "/birendramedicos/static/js/runtime~main.074ed4cd.js.map",
-  "static/js/2.ba1ca5ba.chunk.js": "/birendramedicos/static/js/2.ba1ca5ba.chunk.js",
-  "static/js/2.ba1ca5ba.chunk.js.map": "/birendramedicos/static/js/2.ba1ca5ba.chunk.js.map",
-  "index.html": "/birendramedicos/index.html",
-  "precache-manifest.9ca5b338409ab7dd077921dc3becbc49.js": "/birendramedicos/precache-manifest.9ca5b338409ab7dd077921dc3becbc49.js",
-  "service-worker.js": "/birendramedicos/service-worker.js",
-  "static/css/main.60368a0a.chunk.css.map": "/birendramedicos/static/css/main.60368a0a.chunk.css.map",
-  "static/media/logo.svg": "/birendramedicos/static/media/logo.5d5d9eef.svg"
+  "main.css": "/static/css/main.60368a0a.chunk.css",
+  "main.js": "/static/js/main.00872f12.chunk.js",
+  "main.js.map": "/static/js/main.00872f12.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.fdfcfda2.js",
+  "runtime~main.js.map": "/static/js/runtime~main.fdfcfda2.js.map",
+  "static/js/2.ba1ca5ba.chunk.js": "/static/js/2.ba1ca5ba.chunk.js",
+  "static/js/2.ba1ca5ba.chunk.js.map": "/static/js/2.ba1ca5ba.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.4f5f5f5e5026619ae8b953720597a0c4.js": "/precache-manifest.4f5f5f5e5026619ae8b953720597a0c4.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.60368a0a.chunk.css.map": "/static/css/main.60368a0a.chunk.css.map",
+  "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
 }
